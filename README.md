@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Robert!
 
-<!--
-**rmrfslashbin/rmrfslashbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a lifelong technologist 
+... with expertise in Linux systems engineering. As a kid, I taught myself various programming languages: BASIC, assembly, C, C++, Pascal, and Java. Today, my go-to languages are Python and JavaScipt. I'm currently learning Go and may take up Rust next.
 
-Here are some ideas to get you started:
+## In my professional life
+... I spent most of my career in Systems Engineering (Windows, UNIX, VMWare ESX, and Linux). After taking and passing the Red Hat Performance Tuning exam, I decided to move into a leadership position, managing teams of cross-discipline technologists.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Random things about me:
+- 🤖 I enjoy mentoring rising technologists and appreciate feedback from others.
+- 🌱 I'm currently learning Go and Rust.
+- 💬 Ask me about leadership, mentoring, and hiking.
+- 📫 How to reach me: https://rmrfslashbin.github.io/
+- 😄 Pronouns: he/him/his
+- ⚡ Fun facts: I'm married to a man (🏳️‍🌈), love a good IPA, and speak a bit of French.
