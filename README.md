@@ -12,13 +12,13 @@ I've spent most of my [career](https://rsigler.com/) in Systems Engineering (Win
 ## Random things about me:
 - 🤖 I enjoy mentoring rising technologists and appreciate feedback from others.
 - 🌱 I'm currently learning Go and I'm always look to sharpen my coding skill.
-- 💬 Ask me about leadership, mentoring, and hiking.
 - 📫 More about me and my contact info: https://rmrfslashbin.github.io/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts
-  - I'm a former Boy Scout.
-  - I'm married to a man (🏳️‍🌈).
-  - I love a good IPA.
-  - I speak a bit of French.
-  - I know how to crochet.
-  - [Cooking](https://notes.improvisedscience.org/wiki/Main_Page) is my favorite weekend activity.
+  - ⚜️ I'm a former Boy Scout.
+  - 🥾 I love to hike and be outdoors.
+  - 🏳️‍🌈 I'm married to a man.
+  - 🍺 I love a good IPA.
+  - 🇫🇷 I speak a bit of French.
+  - 🧶 I know how to crochet.
+  - 🧑‍🍳 [Cooking](https://notes.improvisedscience.org/wiki/Main_Page) is my favorite weekend activity.
