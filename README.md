@@ -6,9 +6,6 @@ My first computer was a [Tandy TRS-80 CoCo 2](https://en.wikipedia.org/wiki/TRS-
 ## Github
 My public Github repos contain code I've released into the wild. I also have a pile of Github [Gists](https://gist.github.com/rmrfslashbin) which serve as my nerd notes.
 
-## My professional life
-I've spent most of my [career](https://rsigler.com/) in Systems Engineering (Windows, UNIX, VMWare ESX, and Linux). After taking and passing the [Red Hat Performance Tuning](https://www.redhat.com/en/services/certification/rhcs-performance-tuning) exam, I decided to move into a leadership position, managing teams of cross-discipline technologists. In my current role, I lead an IT operations organization at [McKesson](https://www.mckesson.com/) and love the challenge. My leadership philosophy focuses on the three concepts: empowerment, mentorship, and inclusion. 
-
 ## Random things about me:
 - 🤖 I enjoy mentoring rising technologists and appreciate feedback from others.
 - 🌱 I'm currently learning Go and I'm always look to sharpen my coding skill.
